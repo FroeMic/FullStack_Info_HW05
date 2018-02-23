@@ -247,3 +247,13 @@ input[type=range]::-webkit-slider-runnable-track {
 	padding: 8px 12px;
 	line-height: 1.4;
 }
+
+#site-title-wrapper {
+	display: block;
+	width: 100%;
+}
+
+#site-title-wrapper a {
+	float: right;
+	margin: 35px;
+}
